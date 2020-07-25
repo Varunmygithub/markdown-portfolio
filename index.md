@@ -2,13 +2,11 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# varun
+<br>
+
 
 <br>
 
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
+https://github.com/Varunmygithub/markdown-portfolio/edit/add-images-links/_includes/03-links.md?pr=%2FVarunmygithub%2Fmarkdown-portfolio%2Fpull%2F3
 
